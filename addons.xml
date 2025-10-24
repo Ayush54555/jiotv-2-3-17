@@ -1,0 +1,13 @@
+<addons>
+    <addon id="plugin.video.jiotv" version="2.3.17" name="JioTV" provider-name="Ayush54555">
+        <extension point="xbmc.python.pluginsource" library="default.py">
+            <provides>video</provides>
+        </extension>
+
+        <extension point="xbmc.addon.metadata">
+            <summary>JioTV 2.3.17</summary>
+            <description>Pinned release 2.3.17 of JioTV add-on.</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+</addons>
